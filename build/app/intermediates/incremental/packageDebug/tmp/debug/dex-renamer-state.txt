@@ -1,0 +1,4 @@
+#Sat Dec 28 16:55:41 GMT 2019
+base.0=/Users/andrewng/Documents/GitHub/FlutterEmail/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
