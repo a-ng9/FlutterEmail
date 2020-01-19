@@ -1,16 +1,7 @@
-# trial
+# An app that sends email
 
-A new Flutter project.
+An app powered by Flutter. It is meant to be used in stores, to replace workers. The app is installed onto ipads in a store and customer send out email to the merchant directly
 
-## Getting Started
+App has a simple UI
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![Image of UI](https://github.com/a-ng9/FlutterEmail/blob/master/Screenshot_20191228-015045.jpg)
